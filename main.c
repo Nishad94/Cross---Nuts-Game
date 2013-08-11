@@ -1,5 +1,5 @@
 /*
-Project: Cross & Nuts game implementation using simple console graphics. //Done :D
+Project: Cross & Naught game implementation using simple console graphics. //Done :D
 Author: Nishad Dawkhar
 Objectives:
 1) Layout ----> Done.
